@@ -16,4 +16,3 @@ else:
     x2 = (-b - (D ** 0.5)) / (2 * a)
     print('x1 =', x1)
     print('x2 =', x2)
-print("edit code")
